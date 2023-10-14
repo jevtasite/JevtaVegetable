@@ -651,10 +651,6 @@ button {
      background: #fff;
 }
 
-i:hover {
-     color: #dc3545;
-}
-
 .main_form {
      padding: 33px 80px;
      background: #fff;
@@ -908,4 +904,12 @@ ul.link_menu li a:hover {
 
 .margin_0 {
      margin: 0 !important;
+}
+
+/* NOVO-DODATO */
+
+#centar {
+     margin: auto;
+     text-align: center;
+     font-size: 20px;
 }
